@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @mkumar7404508129
 - 👀 I’m interested in Coding with C++ and Python
-- 🌱 I’m currently learning android app development with Java
+- 🌱 I’m good knowlege know android app development with Java
+-  Now I am Learning NLP
 - 💞️ I’m looking to collaborate on Data Science
 - 📫 How to reach me Robotics
 
